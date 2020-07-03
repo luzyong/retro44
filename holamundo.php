@@ -1,4 +1,4 @@
-<?php include 'headeruser.php'?>
+<?php include 'header.php' ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -22,11 +22,11 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <a href="gtav.php" ><img src="img/GTA.jpg"id="imagen" class="img-rounded" alt="" width="350" height="200" onMouseOver="conimagenuno()" onMouseOut="sinimagenuno()"/></a>
+                        <a href="gtav.php" ><img src="img/GTA.jpg"id="imagen" class="img-rounded" alt="" width="350" height="200" onMouseOver="CON()" onMouseOut="SIN()"/></a>
                     </a>
                      <div class="portfolio-caption">
                         <h4>Grand Theft Auto V</h4>
-                        <p class="text-muted">MXN 500.00</p>
+                        <p class="text-muted">MXN 599.00</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -36,11 +36,11 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <a href="nfs.php"><img src="img/NFS.jpg" id="imagendos" class="img-rounded" alt="" width="350" height="200" onMouseOver="conimagendos()" onMouseOut="sinimagendos()"></a>
+                        <a href="nfs.php"><img src="img/GTA.jpg" class="img-rounded" alt="" width="350" height="200"></a>
                     </a>
                      <div class="portfolio-caption">
                         <h4>Need For Speed</h4>
-                        <p class="text-muted">MXN 700.00</p>
+                        <p class="text-muted">MXN 599.00</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -50,11 +50,11 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <a href="re7.php"><img src="img/RE7.jpg" id="imagentres" class="img-rounded" alt="" width="350" height="200" onMouseOver="conimagentres()" onMouseOut="sinimagentres()"></a>
+                        <a href="re7.php"><img src="img/GTA.jpg" class="img-rounded" alt="" width="350" height="200"></a>
                     </a>
                      <div class="portfolio-caption">
                         <h4>Resident Evil 7</h4>
-                        <p class="text-muted">MXN 570.00</p>
+                        <p class="text-muted">MXN 599.00</p>
                     </div>
                 </div>
             </div>

@@ -1,11 +1,13 @@
 <?php include ("header.php");
 //session_start();?>
-
-
+<html>
+<head>
+<title>Retro44</title>
+<link rel="icon" href="img/logo.ico" /></head>
 <div class="container">
     <section id="main" class="row">
         <div class="col-lg-12 text-center">
-                    <h1 class="section-heading">Bienvenidos a retro44 <?php echo $_SESSION['nombre'];?></h1>
+                    <h1 class="section-heading">Bienvenidos a retro44</h1>
                     <h3 class="section-subheading text-muted">Gracias por visitar nuestro sitio</h3>
                     </div>
 <section id="main" class="row">
@@ -53,4 +55,5 @@
     
     </section>  
     </div>
+</html>
 <?php include 'footer.php'?>

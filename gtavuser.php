@@ -1,4 +1,4 @@
-<?php include 'header.php'?>
+<?php include 'headeruser.php'?>
 <center><h2 class="section-heading">Grand Theft Auto V</h2></center>
 	<section id="main" class="row">
 		<div class="col-xs-12 col-sm-12 col-md-12">
@@ -43,19 +43,19 @@
   </div>
 
 
-<form action="acceder.php" method="Post">
+      
+<form action="compragta.php" method="Post">
       <h1><strong><span class="auto-style1">Precio $500</span><br>
       
        
        <input type="submit" value="Comprar" /></strong><br>
-      <ul>
-      
-       
-       &nbsp;</ul>
-        <strong><em>
+       <ul>
+        </ul>
+      <h1><strong><br>
+        <em>
           <center>
           </center>
-        </em><br><span class="auto-style2">Detalles </span> </strong>
+        </em>Detalles </strong>
         <p></p>
         </h1>
       <p>Experimenta Grand Theft Auto V, el juego de mundo abierto de Rockstar Games aclamado por la crítica.

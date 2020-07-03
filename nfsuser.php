@@ -1,4 +1,4 @@
-<?php include 'header.php'?>
+<?php include 'headeruser.php'?>
 <link rel="stylesheet" type="text/css" href="../plantilla/assets/css/main.css"/>
     
     <style type="text/css">
@@ -25,7 +25,7 @@
          
     <center> <a title="Need For Speed" href="https://www.youtube.com/watch?v=9ewiJJe_nYI"><img alt="NFS" height="444" src="img/NFS.jpg" width="342"> </a>  
       
-    <form action="acceder.php" method="Post">
+    <form action="compranfs.php" method="Post">
       <h1><strong><span class="auto-style1">Precio $700</span><br>
       
        

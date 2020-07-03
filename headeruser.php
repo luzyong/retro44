@@ -14,10 +14,10 @@ session_start();?>
     <title>Retro44 | Online</title>
 
 
-    <link href="bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
   
-    <link href="agency.css" rel="stylesheet">
+    <link href="css/agency.css" rel="stylesheet">
     <link rel="icon" type="image/png" href="img/logo.png">
    
 
@@ -38,7 +38,7 @@ session_start();?>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="../../../../inetpub/wwwroot/retro44/Index.php"><img src="../../../../inetpub/wwwroot/retro44/IMG/logo.png" alt="Chania" width="125" height="125"></a>
+                <a class="navbar-brand page-scroll" href="indexuser.php"><img src="IMG/logo.png" alt="Chania" width="125" height="125"></a>
             </div>
 
             
@@ -48,16 +48,16 @@ session_start();?>
                         
                     </li>
                     <li>
-                        <a class="page-scroll" href="../../../../inetpub/wwwroot/retro44/juegosuser.php">Videojuegos</a>
+                        <a class="page-scroll" href="juegosuser.php">Videojuegos</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="../../../../inetpub/wwwroot/retro44/usuario.php"><?php echo $_SESSION['nombre'];?></a>
+                        <a class="page-scroll" href="usuario.php"><?php echo $_SESSION['nombre'];?></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="../../../../inetpub/wwwroot/retro44/logout.php">Cerrar Sesión</a>
+                        <a class="page-scroll" href="logout.php">Cerrar Sesión</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="../../../../inetpub/wwwroot/retro44/Contacto.php">Contacto</a>
+                        <a class="page-scroll" href="Contactouser.php">Contacto</a>
                     </li>
                 </ul>
             </div>

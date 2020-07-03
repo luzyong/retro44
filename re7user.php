@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php include 'headeruser.php' ?>
 
 	<link rel="stylesheet" type="text/css" href="../plantilla/assets/css/main.css"/>
     
@@ -27,7 +27,7 @@
     <center> <a title="Resident Evil Biohazard" href="https://www.youtube.com/watch?v=W1OUs3HwIuo">
     <img alt="RE" height="497" src="img/RE7.jpg" width="437"> </a>  
       
-    <form action="acceder.php" method="Post">
+    <form action="comprare7.php" method="Post">
       <h1><strong><span class="auto-style1">Precio $570</span><br>
       
        
